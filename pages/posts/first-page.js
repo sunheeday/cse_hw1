@@ -4,14 +4,21 @@ export default function FirstPage() {
         <div>
             <h1>Let me introduce myself !</h1> 
             <h2>My name : Kim Seunghee</h2>
-            <h2>My birthday : 1st April 2004</h2>
+            
             <h2>My hobby </h2>
-            <ul>
-            <li>watching a movie</li>
-            <li>drawing</li>
-            <li>watching a baseball game</li>
-            </ul>
+            
+            watching a movie
+            <br></br>
+            drawing
+            <br></br>
+            watching a baseball game
+            
+            <h2>My birthday : 1st April 2004</h2>
+            <br></br>
             If you want to know more about me, click <Link href="/">here!</Link> 
+            <h2>교수님, 과제 열심히 했어요</h2>
+
+            
         </div>
     )
 }
